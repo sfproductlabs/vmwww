@@ -10,7 +10,7 @@ import pic04 from '../assets/images/barcode.jpg'
 
 class Homepage extends React.Component {
     render() {
-        const siteTitle = "Gatsby Starter - Photon";
+        const siteTitle = "ValidMeds - Fighting fake and counterfeit medicines";
 
         return (
             <Layout>
