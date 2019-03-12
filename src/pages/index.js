@@ -22,13 +22,13 @@ class Homepage extends React.Component {
                             <header className="major">
                                 <h2>Our solution to fake pharmaceuticals</h2>
                             </header>
-                            <p>Ante nunc accumsan et aclacus nascetur ac ante amet sapien sed.</p>
+                            <p>From manufacturer to consumer, no two medicines are alike.</p>
                         </div>
 
                         <div className="col-4">
                             <span className="image fit"><img src={pic02} alt="" /></span>
                             <h3>Assign a Tracking Code</h3>
-                            <p>Adipiscing a commodo ante nunc magna lorem et interdum mi ante nunc lobortis non amet vis sed volutpat et nascetur.</p>
+                            <p>A unique tracking code is applied to the container of pills, and even the pills themselves.</p>
                             <ul className="actions">
                                 {/* <li><a href="#" className="button">More</a></li> */}
                             </ul>
@@ -36,7 +36,7 @@ class Homepage extends React.Component {
                         <div className="col-4">
                             <span className="image fit"><img src={pic03} alt="" /></span>
                             <h3>Distribute as Normal</h3>
-                            <p>Adipiscing a commodo ante nunc magna lorem et interdum mi ante nunc lobortis non amet vis sed volutpat et nascetur.</p>
+                            <p>Every other step of the logistics and value chain is unchanged, and non-counterfeitable.</p>
                             <ul className="actions">
                                 {/* <li><a href="#" className="button">More</a></li> */}
                             </ul>
@@ -44,7 +44,7 @@ class Homepage extends React.Component {
                         <div className="col-4">
                             <span className="image fit"><img src={pic04} alt="" /></span>
                             <h3>Consumer Check</h3>
-                            <p>Adipiscing a commodo ante nunc magna lorem et interdum mi ante nunc lobortis non amet vis sed volutpat et nascetur.</p>
+                            <p>The consumer checks for the uniqueness of the medicines using our patented and easy to use system.</p>
                             <ul className="actions">
                                 {/* <li><a href="mailto:andrew@validmeds.com" className="button">More</a></li> */}
                             </ul>
@@ -60,7 +60,7 @@ class Homepage extends React.Component {
                                 <h2>From manufacturer to <br />
                                 consumer we gurantee qualtiy.</h2>
                             </header>
-                            <p>Adipiscing a commodo ante nunc accumsan et interdum mi ante adipiscing. A nunc lobortis non nisl amet vis sed volutpat aclacus nascetur ac non. Lorem curae et ante amet sapien sed tempus adipiscing id accumsan.</p>
+                            <p>It is nearly impossible to imagine that white collar criminals are selling billions of dollars of sugar pills and fake medicine every year. They put families, the elderly, and your loved ones at risk. We have devised a method to stop this from happening. From the manufacturer to the consumer, we can gurantee with almost absolute certainty that the drugs you are paying for are what you are getting.</p>
                         </div>
                         <div className="col-6">
                             <span className="image fit"><img src={pic01} alt="" /></span>
@@ -85,9 +85,9 @@ class Homepage extends React.Component {
                                 <h2>Open Source, <br />
                                 Patented technology</h2>
                             </header>
-                            <p>Adipiscing a commodo ante nunc accumsan interdum mi ante adipiscing. A nunc lobortis non nisl amet vis volutpat aclacus nascetur ac non. Lorem curae eu ante amet sapien in tempus ac. Adipiscing id accumsan adipiscing ipsum.</p>
-                            <p>Blandit faucibus proin. Ac aliquam integer adipiscing enim non praesent vis commodo nunc phasellus cubilia ac risus accumsan. Accumsan blandit. Lobortis phasellus non lobortis dit varius mi varius accumsan lobortis. Blandit ante aliquam lacinia lorem lobortis semper morbi col faucibus vitae integer placerat accumsan orci eu mi odio tempus adipiscing adipiscing adipiscing curae consequat feugiat etiam dolore.</p>
-                            <p>Adipiscing a commodo ante nunc accumsan interdum mi ante adipiscing. A nunc lobortis non nisl amet vis volutpat aclacus nascetur ac non. Lorem curae eu ante amet sapien in tempus ac. Adipiscing id accumsan adipiscing ipsum.</p>
+                            <p>We have patented a method which we hope will open up the world of anti-counterfeit pharmaceuticals.</p>
+                            <p>We hope that we can get the support of the pharmaceutical industry as a whole. That's why open source is core to our technology. It's in everybody's interest to ensure people are getting what they pay for. We want to make it as easy as possible to deliver medicines with our system.</p>
+                            <p>We are looking for interested parties in government, divisions of pharmaceutical manufacturers, and existing supply chain providers in the pharmaceutical industry to partner with us.</p>
                         </div>
                     </div>
                 </section>               
