@@ -12,7 +12,7 @@ class Footer extends React.Component {
                     <li><a href="mailto:andrew@validmeds.com" className="icon alt fa-envelope"><span className="label">Email</span></a></li>
                 </ul>
                 <ul className="copyright">
-                    <li>&copy; 2019</li><li>Produced by: <a href="http://sfpl.io">SFPL</a></li>
+                    <li>&copy; 2019</li><li>Produced by: <a href="http://sfproductlabs.com">SFPL</a></li>
                 </ul>
             </section>
         )
