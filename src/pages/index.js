@@ -28,7 +28,8 @@ class Homepage extends React.Component {
                         <div className="col-4">
                             <span className="image fit"><img src={pic02} alt="" /></span>
                             <h3>Assign a Tracking Code</h3>
-                            <p>A unique tracking code is applied to the container of pills, and even the pills themselves.</p>
+                            <p>A unique tracking code is applied to the container of pills, and even the pills themselves. <strong>Try it now:</strong></p>
+                            <span className="image fit"><img src="https://api.staging.validmeds.com/api/v1/test/issue/Aspirin" style={{ borderRadius:0, borderWidth:0}}/></span>
                             <ul className="actions">
                                 {/* <li><a href="#" className="button">More</a></li> */}
                             </ul>
