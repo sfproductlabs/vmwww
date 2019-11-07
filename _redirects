@@ -1,2 +1,7 @@
-# Redirect default Netlify subdomain to primary domain
-http://keen-bhaskara-a06f0f.netlify.com/* http://validmeds.com/:splat 301!
+# These rules will change if you change your site’s custom domains or HTTPS settings
+
+# Redirect domain aliases to primary domain
+https://validmeds.com/* https://valid9.com/:splat 301!
+
+# Optional: Redirect default Netlify subdomain to primary domain
+https://keen-bhaskara-a06f0f.netlify.com/* https://valid9.com/:splat 301!
