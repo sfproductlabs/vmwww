@@ -1,2 +1,4 @@
 # Redirect default Netlify subdomain to primary domain
-http://keen-bhaskara-a06f0f.netlify.com/* http://validmeds.com/:splat 301!
+http://keen-bhaskara-a06f0f.netlify.com/* https://valid9.com/:splat 301!
+https://validmeds.com/* https://valid9.com/:splat 301!
+http://validmeds.com/* https://valid9.com/:splat 301!
