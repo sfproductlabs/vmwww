@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: "ValidMeds",
+    title: "Valid9",
     author: "SFPL",
     description: "Patented open source counterfeit pharmacy and medicine solutions"
   },

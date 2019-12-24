@@ -10,7 +10,7 @@ import pic04 from '../assets/images/barcode.jpg'
 
 class Homepage extends React.Component {
     render() {
-        const siteTitle = "ValidMeds - Fighting fake and counterfeit medicines";
+        const siteTitle = "Valid9.com - Fighting fake and counterfeit products";
 
         return (
             <Layout>
@@ -47,7 +47,7 @@ class Homepage extends React.Component {
                             <h3>Consumer Check</h3>
                             <p>The consumer checks for the uniqueness of the medicines using our patented and easy to use system.</p>
                             <ul className="actions">
-                                {/* <li><a href="mailto:andrew@validmeds.com" className="button">More</a></li> */}
+                                {/* <li><a href="mailto:andrew@valid9.com" className="button">More</a></li> */}
                             </ul>
                         </div>
 
@@ -101,7 +101,7 @@ class Homepage extends React.Component {
                         <p>Contact us.</p>
                         <ul className="actions uniform">
                             {/* <li><a href="#" className="button special">Sign Up</a></li> */}
-                            <li><a href="mailto:andrew@validmeds.com" className="button">Learn More</a></li>
+                            <li><a href="mailto:andrew@valid9.com" className="button">Learn More</a></li>
                         </ul>
                     </div>
                 </section>
