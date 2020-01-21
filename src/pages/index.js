@@ -16,7 +16,7 @@ class Homepage extends React.Component {
             <Layout>
                 <Helmet title={siteTitle} />
                 
-                <section id="three" className="main style2 special">
+                <section id="three" className="main style1 special">
                     <div className="grid-wrapper">
                         <div className="col-12">
                             <header className="major">
@@ -54,7 +54,7 @@ class Homepage extends React.Component {
                     </div>
                 </section>
 
-                <section id="two" className="main style1">
+                <section id="two" className="main style2">
                     <div className="grid-wrapper">
                         <div className="col-6">
                             <ul className="major-icons">
