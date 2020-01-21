@@ -16,13 +16,13 @@ class Homepage extends React.Component {
             <Layout>
                 <Helmet title={siteTitle} />
                 
-                <section id="three" className="main style1 special">
+                <section id="three" className="main style2 special">
                     <div className="grid-wrapper">
                         <div className="col-12">
                             <header className="major">
-                                <h2>Our solution to fake pharmaceuticals</h2>
+                                <h2>Our solution to fake pharmaceuticals, electronics, and everything else big or small.</h2>
                             </header>
-                            <p>From manufacturer to consumer, no two medicines are alike.</p>
+                            <p>From manufacturer to consumer, no two products are alike. We stop counterfeits dead in their tracks. Identify locations where fakes occur. Help you understand your consumer better. Improve the after-market value of your products, and help you realize value from their sale. </p>
                         </div>
 
                         <div className="col-4">
@@ -51,21 +51,6 @@ class Homepage extends React.Component {
                             </ul>
                         </div>
 
-                    </div>
-                </section>
-
-                <section id="one" className="main style2">
-                    <div className="grid-wrapper">
-                        <div className="col-6">
-                            <header className="major">
-                                <h2>From manufacturer to <br />
-                                consumer we gurantee qualtiy.</h2>
-                            </header>
-                            <p>It is nearly impossible to imagine that white collar criminals are selling billions of dollars of sugar pills and fake medicine every year. They put families, the elderly, and your loved ones at risk. We have devised a method to stop this from happening. From the manufacturer to the consumer, we can gurantee with almost absolute certainty that the drugs you are paying for are what you are getting.</p>
-                        </div>
-                        <div className="col-6">
-                            <span className="image fit"><img src={pic01} alt="" /></span>
-                        </div>
                     </div>
                 </section>
 
